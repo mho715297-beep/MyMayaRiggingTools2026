@@ -12,6 +12,6 @@
 
 ## Limb Rigger
 
-<img src="Assets/YourMom.png" width=300>
+<img src="assets/YourMom.png" width=300>
 
 * Rig arms and Legs with ikfk blend
