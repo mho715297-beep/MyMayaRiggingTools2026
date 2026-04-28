@@ -1,2 +1,2 @@
 import sys
-sys.path.append("C:/MayaRiggingTools/src")
+sys.path.append("C:/MayaRiggingTools-FINAL/src")

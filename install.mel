@@ -40,3 +40,4 @@ global proc AddPluginToShelf(string $scriptName, string $label)
     shelfButton -c $command -stp "python" -image $iconPath -l $label -iol $label;
 }
 AddPluginToShelf("limbRigger", "LimbRigger"); 
+AddPluginToShelf("mayaToUE", "Maya To UE"); 
